@@ -4,6 +4,7 @@
     padding: 10px;
     font-size: larger;
     border-radius: 50px;
+    border-color: rgb(204, 192, 192);
 }
 .add{
     border: 5px;
@@ -23,7 +24,7 @@
     height: 30px;
     padding: 10px;
     margin: 10px 0;
-    width: 650px;
+    width: 100%-5px;
     font-family: sans-serif;
     font-weight: bold;
 }
@@ -56,4 +57,13 @@
     font-family: sans-serif;
     cursor: pointer;
     margin: 20px 0 0;
+}
+.container {
+    min-width :700px;
+    max-width: 700px;
+    min-height: 200px;
+    margin :auto;
+    background-color: rgb(204, 192, 192);
+    border-radius:5px;
+    padding: 10px;
 }

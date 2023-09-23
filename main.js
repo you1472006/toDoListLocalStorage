@@ -4,7 +4,6 @@ let tasksDiv = document.querySelector(".tasks");
 let tasks =[];
 let butdel= document.querySelector(".delButton");
 let butdelall= document.querySelector(".delall");
-console.log(butdelall);
 if(window.localStorage.getItem("tasks")){
 
     tasks=JSON.parse(window.localStorage.getItem("tasks"));
