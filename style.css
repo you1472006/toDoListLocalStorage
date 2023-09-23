@@ -8,7 +8,7 @@
 .add{
     border: 5px;
     display: inline-block;
-    height: 25px;
+    height: 17px;
     background-color: red;
     padding: 10px 50px;
     border-radius: 50px;
@@ -55,4 +55,5 @@
     font-size: large;
     font-family: sans-serif;
     cursor: pointer;
+    margin: 20px 0 0;
 }
