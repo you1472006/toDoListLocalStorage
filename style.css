@@ -15,6 +15,7 @@
     color: white;
     font-size: large;
     font-family: sans-serif;
+    cursor: pointer;
 }
 .task{
     font-size: larger;
@@ -37,6 +38,7 @@
     color: white;
     font-size: large;
     font-family: sans-serif;
+    cursor: pointer;
 }
 .completed{
     background-color: lightgreen ;
@@ -52,4 +54,5 @@
     color: white;
     font-size: large;
     font-family: sans-serif;
+    cursor: pointer;
 }
